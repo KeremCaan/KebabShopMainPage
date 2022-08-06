@@ -1,0 +1,23 @@
+{
+  "images" : [
+    {
+      "filename" : "depositphotos_48612985-stock-photo-chicken-iskender-kebab-tavuk-skender-2.jpeg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "depositphotos_48612985-stock-photo-chicken-iskender-kebab-tavuk-skender.jpeg",
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "depositphotos_48612985-stock-photo-chicken-iskender-kebab-tavuk-skender-1.jpeg",
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
